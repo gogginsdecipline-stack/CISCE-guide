@@ -1,0 +1,6 @@
+{
+  "name": "ICSE & ISC Subject Guide",
+  "description": "Comprehensive guide for ICSE and ISC academic subjects, syllabus structures, question patterns, exam rules, and AI student preparation support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
